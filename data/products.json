@@ -1,0 +1,72 @@
+[
+    {
+        "ID": "101",
+        "Name": "Laptop Sleeve",
+        "Quantity": 15,
+        "Price": 1200,
+        "Category": "Electronics"
+    },
+    {
+        "ID": "102",
+        "Name": "Denim Jeans",
+        "Quantity": 8,
+        "Price": 2200,
+        "Category": "Men"
+    },
+    {
+        "ID": "103",
+        "Name": "Wireless Mouse",
+        "Quantity": 25,
+        "Price": 550,
+        "Category": "Electronics"
+    },
+    {
+        "ID": "104",
+        "Name": "Water Bottle",
+        "Quantity": 9,
+        "Price": 150,
+        "Category": "Accessories"
+    },
+    {
+        "ID": "105",
+        "Name": "Cotton Kurti",
+        "Quantity": 12,
+        "Price": 1800,
+        "Category": "Women"
+    },
+    {
+        "ID": "106",
+        "Name": "Yoga Mat",
+        "Quantity": 6,
+        "Price": 900,
+        "Category": "Fitness"
+    },
+    {
+        "ID": "107",
+        "Name": "School Backpack",
+        "Quantity": 4,
+        "Price": 1300,
+        "Category": "Kids"
+    },
+    {
+        "ID": "108",
+        "Name": "Bluetooth Speaker",
+        "Quantity": 10,
+        "Price": 2500,
+        "Category": "Electronics"
+    },
+    {
+        "ID": "109",
+        "Name": "Formal Shirt",
+        "Quantity": 11,
+        "Price": 1600,
+        "Category": "Men"
+    },
+    {
+        "ID": "110",
+        "Name": "Face Wash",
+        "Quantity": 18,
+        "Price": 300,
+        "Category": "Skincare"
+    }
+]
